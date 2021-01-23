@@ -1,2 +1,2 @@
 # Movies-ETL
-Predicting hit streaming movies
+Predict hit streaming movies
