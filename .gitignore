@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# Adding config.py file.
+# Adding config.py file
 config.py
+
+#Adding DS_Store file
+.DS_Store
